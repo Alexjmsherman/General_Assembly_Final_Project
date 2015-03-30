@@ -1,0 +1,24 @@
+#How many text messages are there?
+wc SMSSpamCollection.txt
+
+#What is the average number of words per text? What is the average number of characters per text?
+92482 / 5574  = 16.591
+483481 / 5574 = 86.738
+
+#How many messages are spam? How many are ham?
+grep 'spam' SMSSpamCollection.txt | wc     #747
+grep 'ham' SMSSpamCollection.txt | wc      #4831
+
+#Is there a difference between the number of words per text and characters per text in messages that are spam vs. those that are ham? What are these numbers?
+Spam 
+18609 / 747  = 24.911
+108408 / 747 = 145.124
+
+Ham
+73982 / 4831  = 15.314
+370125 / 4831 = 76.614
+
+#Separate the spam and ham messages into files "spam_messages.txt" and "ham_messages.txt".
+grep 'spam' SMSSpamCollection.txt > spam_messages.txt
+grep 'ham' SMSSpamCollection.txt  > ham_messages.txt
+
