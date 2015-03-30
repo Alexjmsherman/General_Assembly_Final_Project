@@ -84,7 +84,7 @@ data[data.cylinders > 4].sort_index(by='mpg', ascending=False)[0:5][['car_name',
 
 # In[40]:
 
-# Get 5 cars with worst mpg by reording data by mpg asending == True  
+# Get 5 cars with worst mpg by reordering data by mpg asending == True  
 data.sort_index(by='mpg', ascending=True)[0:5][['car_name','mpg']]
 
 
