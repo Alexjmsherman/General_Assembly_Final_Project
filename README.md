@@ -44,7 +44,7 @@ Using the above data, I will model the association between the various inputs an
 
 Craiglist does not provide sales data, so the question is more a metric of user confidence than actual housing value - The listed price may not equal the actual sales amount.  
 
-My initial data set will consist of the craigslist housing attributes in the Washington, DC market; however, I may explore the location and image data as well as expand to other dataset. Some topics of corollary questions of interest include:
+My initial data set will consist of the craigslist housing attributes in the Washington, DC market; however, I may explore the location and image data as well as expand to other dataset. Some corollary questions of interest include:
 
 
 * Can i use the latitude and longitude to determine nearby landmarks that may relate to housing value (e.g. metro proximity)?
