@@ -2,7 +2,7 @@
 Final project and homework for General Assembly's Data Science Course
 
 
-# Project Question
+## Project Question
 
 What factors correlate with a seller's listed price for online housing listings?
 
