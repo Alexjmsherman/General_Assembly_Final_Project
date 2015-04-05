@@ -40,11 +40,11 @@ I will use craigslist listings as the core data set. Craigslist listing are fair
         -image link
 
 ## Notes on the Data
-Using the above data, I model the association between the various inputs and the listed price. My metric of success will be to create a model that can predict the listed sales price, provided the other data points from a listing.
+Using the above data, I will model the association between the various inputs and the listed price. My metric of success will be to create a model that can predict the listed sales price, provided the other data points from a listing.
 
-1.Craiglist does not provide sales data, so the question is more a metric of user confidence than actual housing value - The listed price may not equal the actual sales amount.  
+Craiglist does not provide sales data, so the question is more a metric of user confidence than actual housing value - The listed price may not equal the actual sales amount.  
 
-2.My initial data set will consist of the craigslist housing attributes in the Washington, DC market; however, I may explore the location and image data as well as expand to other dataset. Some topics of corollary questions of interest include:
+My initial data set will consist of the craigslist housing attributes in the Washington, DC market; however, I may explore the location and image data as well as expand to other dataset. Some topics of corollary questions of interest include:
 
 
 * Can i use the latitude and longitude to determine nearby landmarks that may relate to housing value (e.g. metro proximity)?
