@@ -4,7 +4,7 @@ What factors correlate with a seller's listed price for online housing listings?
 
 ## Data
 
-I will use craigslist listings as the core data set. Craigslist listing are fairly structured and includes a mix of the following information:
+I will use craigslist listings as the core data set. Craigslist listings are fairly structured & include the following data:
    
 #### Housing Description:
         -Seller's listed price
@@ -23,12 +23,12 @@ I will use craigslist listings as the core data set. Craigslist listing are fair
          'smoking': u'no smoking',
          'square_footage': u'763'}
 #### Location Data
-        {'address': u'2250 Clarendon Blvd',
+        {'address': u'123 Random Street',
          'city': u'Arlington',
          'country': u'US',
-         'latitude': u'38.890353',
+         'latitude': u'11.111111',
          'location_data_accuracy': u'10',
-         'longitude': u'-77.086406',
+         'longitude': u'-22.222222',
          'state': u'VA'}
 #### Image data
         -number of images
@@ -53,7 +53,7 @@ My initial data set will consist of the craigslist housing attributes in the Was
 ## Why this Topic
 I have selected this topic as I am currently searching for a new apartment, and I hope to use this model to optimize my search and get the best value for my money.
 
-Additionally, the topic has potential to expand in scope to many topics I would like to develop a skill set in and find interesting:
+Additionally, the topic has potential to expand to many intersting data science topics:
 
 * web scraping
 * geolocation analysis
