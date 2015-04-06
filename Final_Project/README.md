@@ -36,7 +36,7 @@ I will use craigslist listings as the core data set. Craigslist listings are fai
         -image link
 
 ## Notes on the Data
-Using the above data, I will model the association between the various inputs and the listed price. My metric of success will be to create a model that can predict the listed sales price, provided the other data points from a listing.
+Using the above data, I will model the association between the various inputs and the listed price. My metric of success will be to create a model that can predict the listed sales price with 20%, provided the other data points from a listing.
 
 Craiglist does not provide sales data, so the question is more a metric of user confidence than actual housing value - The listed price may not equal the actual sales amount.  
 
