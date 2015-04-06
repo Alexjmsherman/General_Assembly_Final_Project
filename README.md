@@ -15,25 +15,25 @@ I will use craigslist listings as the core data set. Craigslist listing are fair
         -Listing Title
         -Listing Text
 #### Housing Attributes:
-        {'availability': u'available now',
-         'bathroom': u' 1',
-         'bedroom': u'1 ',
-         'cat': u'cats are OK - purrr',
-         'data_available': u'2015-04-15',
-         'dog': u'dogs are OK - wooof',
-         'housing_type': u'apartment',
-         'laundry': u'w/d in unit',
-         'parking': u'attached garage',
-         'smoking': u'no smoking',
-         'square_footage': u'763'}
+        {'availability': 'available now',
+         'bathroom': ' 1',
+         'bedroom': '1 ',
+         'cat': 'cats are OK - purrr',
+         'data_available': '2015-04-15',
+         'dog': 'dogs are OK - wooof',
+         'housing_type': 'apartment',
+         'laundry': 'w/d in unit',
+         'parking': 'attached garage',
+         'smoking': 'no smoking',
+         'square_footage': '763'}
 #### Location Data
-        {'address': u'2250 Clarendon Blvd',
-         'city': u'Arlington',
-         'country': u'US',
-         'latitude': u'38.890353',
-         'location_data_accuracy': u'10',
-         'longitude': u'-77.086406',
-         'state': u'VA'}
+        {'address': 123 Random Street,
+         'city': 'Arlington',
+         'country': 'US',
+         'latitude': '11.111111',
+         'location_data_accuracy': '10',
+         'longitude': '-22.222222',
+         'state': 'VA'}
 #### Image data
         -number of images
         -size of each image (e.g. 600X450.jpg)
