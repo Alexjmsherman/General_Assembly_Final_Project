@@ -1,6 +1,6 @@
 ## Project Question
 
-What factors correlate with a seller's listed price for online housing listings?
+**What factors correlate with a seller's listed price for online housing listings?**
 
 ## Data
 
