@@ -7,8 +7,8 @@
 I will use craigslist listings as the core data set. Craigslist listings are fairly structured & include the following data:
    
 #### Housing Description:
-        *Seller's listed price
-        *Listing Title
+*Seller's listed price
+*Listing Title
         -Listing Text
 #### Housing Attributes:
         {'availability': u'available now',
